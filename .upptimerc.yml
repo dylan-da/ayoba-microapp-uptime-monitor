@@ -15,6 +15,8 @@ sites:
     url: https://fw.tv/ayoba_africa
   - name: Miss Côte d Ivoire 2021
     url: https://www.mtn.ci/miss-ci/
+  - name: Live Masjid
+    url: https://www.livemasjid.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
