@@ -97,11 +97,11 @@
     "icon": "https://favicons.githubusercontent.com/www.mtn.ci",
     "slug": "miss-cote-d-ivoire-2021",
     "status": "up",
-    "uptime": "93.92%",
+    "uptime": "94.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "93.92%",
+    "uptimeYear": "94.01%",
     "time": 3673,
     "timeDay": 2588,
     "timeWeek": 5645,
@@ -119,9 +119,9 @@
     "url": "https://www.livemasjid.com/",
     "icon": "https://favicons.githubusercontent.com/www.livemasjid.com",
     "slug": "live-masjid",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -130,6 +130,8 @@
     "timeWeek": 265,
     "timeMonth": 263,
     "timeYear": 263,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-02": 0
+    }
   }
 ]
