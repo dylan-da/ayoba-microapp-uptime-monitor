@@ -48,7 +48,7 @@
     "uptime": "63.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
-    "uptimeMonth": "60.89%",
+    "uptimeMonth": "60.92%",
     "uptimeYear": "63.23%",
     "time": 1629,
     "timeDay": 365,
@@ -113,19 +113,19 @@
     "url": "https://playboxcade.com/",
     "icon": "https://favicons.githubusercontent.com/playboxcade.com",
     "slug": "playboxcade",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.90%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 1012,
-    "timeDay": 898,
-    "timeWeek": 1012,
-    "timeMonth": 1056,
+    "timeDay": 905,
+    "timeWeek": 1005,
+    "timeMonth": 1052,
     "timeYear": 1012,
     "dailyMinutesDown": {
-      "2021-10-04": 18
+      "2021-10-04": 30
     }
   },
   {
