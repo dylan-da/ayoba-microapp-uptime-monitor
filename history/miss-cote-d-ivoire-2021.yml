@@ -1,7 +1,7 @@
 url: https://www.mtn.ci/miss-ci/
-status: up
-code: 200
-responseTime: 2235
-lastUpdated: 2022-07-16T23:06:40.255Z
+status: down
+code: 500
+responseTime: 1978
+lastUpdated: 2022-07-17T17:04:59.598Z
 startTime: Wed May 26 2021 13:07:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
