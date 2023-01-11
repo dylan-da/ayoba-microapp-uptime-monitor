@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/survey54.com.ico",
     "slug": "survey54",
     "status": "down",
-    "uptime": "57.95%",
+    "uptime": "57.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.52%",
+    "uptimeYear": "31.49%",
     "time": 1057,
     "timeDay": 3121,
     "timeWeek": 2701,
     "timeMonth": 2659,
     "timeYear": 1306,
     "dailyMinutesDown": {
-      "2023-01-10": 1387,
+      "2023-01-11": 101,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -302,7 +303,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.samestart.com.ico",
     "slug": "samestart",
     "status": "down",
-    "uptime": "26.52%",
+    "uptime": "26.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -313,7 +314,8 @@
     "timeMonth": 0,
     "timeYear": 539,
     "dailyMinutesDown": {
-      "2023-01-10": 1387,
+      "2023-01-11": 101,
+      "2023-01-10": 1440,
       "2023-01-09": 1440,
       "2023-01-08": 1440,
       "2023-01-07": 1440,
@@ -674,8 +676,7 @@
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
-      "2022-01-12": 1440,
-      "2022-01-11": 1440
+      "2022-01-12": 1440
     }
   },
   {
@@ -724,18 +725,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mtn.ci.ico",
     "slug": "miss-cote-d-ivoire-2021",
     "status": "up",
-    "uptime": "58.60%",
-    "uptimeDay": "72.09%",
-    "uptimeWeek": "69.24%",
-    "uptimeMonth": "92.92%",
-    "uptimeYear": "54.89%",
+    "uptime": "58.61%",
+    "uptimeDay": "83.62%",
+    "uptimeWeek": "69.36%",
+    "uptimeMonth": "92.95%",
+    "uptimeYear": "54.92%",
     "time": 3264,
     "timeDay": 6287,
     "timeWeek": 4171,
     "timeMonth": 2725,
     "timeYear": 3319,
     "dailyMinutesDown": {
-      "2023-01-10": 348,
+      "2023-01-10": 336,
       "2023-01-09": 1020,
       "2023-01-08": 1440,
       "2023-01-07": 291,
@@ -919,8 +920,7 @@
       "2022-01-15": 1440,
       "2022-01-14": 1440,
       "2022-01-13": 1440,
-      "2022-01-12": 1440,
-      "2022-01-11": 1440
+      "2022-01-12": 1440
     }
   },
   {
