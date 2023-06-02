@@ -16,7 +16,7 @@
     "timeMonth": 2608,
     "timeYear": 2033,
     "dailyMinutesDown": {
-      "2023-06-02": 951,
+      "2023-06-02": 990,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -426,7 +426,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-02": 952,
+      "2023-06-02": 990,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
@@ -820,19 +820,19 @@
     "url": "https://fw.tv/ayoba_africa",
     "icon": "https://icons.duckduckgo.com/ip3/fw.tv.ico",
     "slug": "firework",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "95.20%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.99%",
-    "time": 528,
-    "timeDay": 588,
-    "timeWeek": 656,
-    "timeMonth": 735,
-    "timeYear": 561,
+    "uptimeDay": "92.52%",
+    "uptimeWeek": "98.93%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.98%",
+    "time": 527,
+    "timeDay": 490,
+    "timeWeek": 616,
+    "timeMonth": 722,
+    "timeYear": 560,
     "dailyMinutesDown": {
-      "2023-06-02": 69
+      "2023-06-02": 108
     }
   },
   {
@@ -852,7 +852,7 @@
     "timeMonth": 1145,
     "timeYear": 2307,
     "dailyMinutesDown": {
-      "2023-06-02": 952,
+      "2023-06-02": 991,
       "2023-06-01": 1440,
       "2023-05-31": 1440,
       "2023-05-30": 1440,
