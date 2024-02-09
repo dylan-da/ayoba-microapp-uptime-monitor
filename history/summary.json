@@ -16,7 +16,7 @@
     "timeMonth": 2024,
     "timeYear": 2388,
     "dailyMinutesDown": {
-      "2024-02-09": 72,
+      "2024-02-09": 91,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
@@ -408,9 +408,9 @@
     "url": "https://www.samestart.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.samestart.com.ico",
     "slug": "samestart",
-    "status": "up",
+    "status": "down",
     "uptime": "29.38%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "36.39%",
@@ -420,6 +420,7 @@
     "timeMonth": 976,
     "timeYear": 897,
     "dailyMinutesDown": {
+      "2024-02-09": 0,
       "2024-02-07": 21,
       "2024-02-06": 18,
       "2024-02-04": 18,
@@ -726,7 +727,7 @@
     "timeMonth": 1610,
     "timeYear": 858,
     "dailyMinutesDown": {
-      "2024-02-09": 73,
+      "2024-02-09": 92,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
       "2024-02-06": 1440,
