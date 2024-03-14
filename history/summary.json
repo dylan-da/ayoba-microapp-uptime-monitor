@@ -16,7 +16,8 @@
     "timeMonth": 1327,
     "timeYear": 2322,
     "dailyMinutesDown": {
-      "2024-03-13": 1398,
+      "2024-03-14": 73,
+      "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
@@ -370,8 +371,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -403,11 +403,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.samestart.com.ico",
     "slug": "samestart",
     "status": "up",
-    "uptime": "31.71%",
+    "uptime": "31.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "45.37%",
+    "uptimeYear": "45.40%",
     "time": 945,
     "timeDay": 557,
     "timeWeek": 1094,
@@ -631,8 +631,7 @@
       "2023-03-19": 1440,
       "2023-03-18": 1440,
       "2023-03-17": 1440,
-      "2023-03-16": 1440,
-      "2023-03-15": 1440
+      "2023-03-16": 1440
     }
   },
   {
@@ -682,18 +681,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.mtn.ci.ico",
     "slug": "miss-cote-d-ivoire-2021",
     "status": "down",
-    "uptime": "43.75%",
+    "uptime": "43.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "9.86%",
+    "uptimeYear": "9.84%",
     "time": 1289,
     "timeDay": 4389,
     "timeWeek": 1095,
     "timeMonth": 1480,
     "timeYear": 882,
     "dailyMinutesDown": {
-      "2024-03-13": 1399,
+      "2024-03-14": 73,
+      "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
